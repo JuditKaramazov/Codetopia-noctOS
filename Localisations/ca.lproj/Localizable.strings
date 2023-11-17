@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  noctOs
+
+  Created by Judit Lázaro on 2023/11/15.
+  Copyright © 2023 JuditKaramazov. All rights reserved.
+*/
+
+"A new version is available." = "Hi ha una nova versió disponible.";
+"Version" = "Versió";
+"is available for download on GitHub." = "disponible a GitHub.";
+"Open GitHub" = "Obre GitHub";
+"OK" = "D'accord";
+"You’re up-to-date!" = "Tot actualitzat!";
+"is currently the newest version available." = "és la versió més recent disponible.";
+"Reset" = "Reiniciar";
+"Applications" = "Aplicacions";
+"Additional privileges needed" = "Es requereixen permisos adicionals";
+"To be able to change the appearance of apps like Mail, Messages, Safari and Home, you need to grant permission Full Disk Access." = "Per tal de canviar l'estètica d'apps com Correu, Missatges, Safari i Casa, hauràs d'atorgar permisos d'accés a tot el disc.";
+"Open Security & Preferences" = "Obrir Seguretat & Preferències";
+"Dark appearance" = "Mode fosc";
+"Light appearance" = "Mode clar";
+"System appearance" = "Sistema";
+"🔐 Locked" = "🔐 Bloquejat";
+"Loading..." = "Carregant...";
+"Importing..." = "Important...";
+"Search results:" = "Resultats de la cerca:";
+"Importing" = "Important";
+"settings." = "configuració.";
+"Loading" = "Carregant";
+"Enable Accessibility." = "Activa Accessibilitat.";
+"For noctOs to work properly, you will have to enable Accessibility. You can do this by adding it in System Preferences, Security & Privacy, Privacy." = "Per tal que noctOS funcioni correctament, hauràs d'activar-ne l'Accessibilitat. Ho pots fer a Preferències de Sistema, Seguritat & Privacitat, Privacitat";
+"System Preferences" = "Preferències del sistema";
+"Preferences" = "Preferències";
+"System" = "Sistema";

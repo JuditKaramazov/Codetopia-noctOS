@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  noctOs
+
+  Created by Judit Lázaro on 2023/11/15.
+  Copyright © 2023 JuditKaramazov. All rights reserved.
+*/
+
+"A new version is available." = "A new version is available.";
+"Version" = "Version";
+"is available for download on GitHub." = "is available for download on GitHub.";
+"Open GitHub" = "Open GitHub";
+"OK" = "OK";
+"You’re up-to-date!" = "You’re up-to-date!";
+"is currently the newest version available." = "is currently the newest version available.";
+"Reset" = "Reset";
+"Applications" = "Applications";
+"Additional privileges needed" = "Additional privileges needed";
+"To be able to change the appearance of apps like Mail, Messages, Safari and Home, you need to grant permission Full Disk Access." = "To be able to change the appearance of apps like Mail, Messages, Safari and Home, you need to grant permission Full Disk Access.";
+"Open Security & Preferences" = "Open Security & Preferences";
+"Dark appearance" = "Dark appearance";
+"Light appearance" = "Light appearance";
+"System appearance" = "System appearance";
+"🔐 Locked" = "🔐 Locked";
+"Loading..." = "Loading...";
+"Importing..." = "Importing...";
+"Search results:" = "Search results:";
+"Importing" = "Importing";
+"settings." = "settings.";
+"Loading" = "Loading";
+"Enable Accessibility." = "Enable Accessibility.";
+"For noctOs to work properly, you will have to enable Accessibility. You can do this by adding it in System Preferences, Security & Privacy, Privacy." = "For noctOs to work properly, you will have to enable Accessibility. You can do this by adding it in System Preferences, Security & Privacy, Privacy.";
+"System Preferences" = "System Preferences";
+"Preferences" = "Preferences";
+"System" = "System";

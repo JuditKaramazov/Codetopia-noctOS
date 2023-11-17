@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  noctOs
+
+  Created by Judit Lázaro on 2023/11/15.
+  Copyright © 2023 JuditKaramazov. All rights reserved.
+*/
+
+"A new version is available." = "Eine neue Version ist verfügbar.";
+"Version" = "Version";
+"is available for download on GitHub." = "ist auf GitHub zum Download verfügbar.";
+"Open GitHub" = "GitHub öffnen";
+"OK" = "OK";
+"You’re up-to-date!" = "Du bist auf dem neuesten Stand!";
+"is currently the newest version available." = "ist derzeit die neueste verfügbare Version.";
+"Reset" = "Reset";
+"Applications" = "Applications";
+"Additional privileges needed" = "Zusätzliche Berechtigungen erforderlich";
+"To be able to change the appearance of apps like Mail, Messages, Safari and Home, you need to grant permission Full Disk Access." = "Um das Erscheinungsbild von Apps wie Mail, Messages, Safari und Home ändern zu können, müssen Sie die Berechtigung für den vollen Festplattenzugriff erteilen.";
+"Open Security & Preferences" = "Sicherheits- & Datenschutzeinstellungen öffnen";
+"Dark appearance" = "Dunkles Erscheinungsbild";
+"Light appearance" = "Helles Erscheinungsbild";
+"System appearance" = "System";
+"🔐 Locked" = "🔐 Gesperrt";
+"Loading..." = "Wird geladen...";
+"Importing..." = "Wird importiert...";
+"Search results:" = "Suchergebnisse:";
+"Importing" = "Wird importiert";
+"settings." = "Einstellungen.";
+"Loading" = "Wird geladen";
+"Enable Accessibility." = "Barrierefreiheit aktivieren.";
+"For noctOs to work properly, you will have to enable Accessibility. You can do this by adding it in System Preferences, Security & Privacy, Privacy." = "Damit noctOs ordnungsgemäß funktioniert, müssen Sie die Barrierefreiheit aktivieren. Dies können Sie tun, indem Sie es unter dem Tab 'Datenschutz' unter 'Sicherheit & Datenschutz' in den Systemeinstellungen hinzufügen.";
+"System Preferences" = "Systemeinstellungen";
+"Preferences" = "Einstellungen";
+"System" = "System";

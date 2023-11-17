@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  noctOs
+
+  Created by Judit Lázaro on 2023/11/15.
+  Copyright © 2023 JuditKaramazov. All rights reserved.
+*/
+
+"A new version is available." = "Une nouvelle version est disponible.";
+"Version" = "Version";
+"is available for download on GitHub." = "disponible sur GitHub.";
+"Open GitHub" = "Ouvrir GitHub";
+"OK" = "Allons-y !";
+"You’re up-to-date!" = "Vous êtes à vous à jour !";
+"is currently the newest version available." = "est la dernière version disponible.";
+"Reset" = "Réinitialiser";
+"Applications" = "Applications";
+"Additional privileges needed" = "Permissions additionnelles requises";
+"To be able to change the appearance of apps like Mail, Messages, Safari and Home, you need to grant permission Full Disk Access." = "Pour changer l’apparence d’applications comme Mail, Messages, Safari et Maison, vous devez autoriser l’accès au disque complet.";
+"Open Security & Preferences" = "Ouvrir Sécurité et Confidentialité";
+"Dark appearance" = "Mode Sombre";
+"Light appearance" = "Mode Clair";
+"System appearance" = "Système";
+"🔐 Locked" = "🔐 Bloqué";
+"Loading..." = "Chargement...";
+"Importing..." = "Importation...";
+"Search results:" = "Résultats de la recherche :";
+"Importing" = "Importation";
+"settings." = "paramètres.";
+"Loading" = "Chargement";
+"Enable Accessibility." = "Activer Accessibilité.";
+"For noctOs to work properly, you will have to enable Accessibility. You can do this by adding it in System Preferences, Security & Privacy, Privacy." = "Pour que noctOs fonctionne correctement, il vous faut activer Accessibilité. Vous pouvez le faire en vous rendant dans : Préférences Système, Sécurité et Confidentialité, Confidentialité.";
+"System Preferences" = "Préférences Système";
+"Preferences" = "Préférences";
+"System" = "Système";
