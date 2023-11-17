@@ -99,7 +99,7 @@ The ability to switch themes and colors can still become a reflection of the dyn
 - **Grid & List View**. Again: you choose how to display the different apps!
 - **Search Bar**. Couldn't it be easier?
 - **Localized**. Spanish? French? Catalan? ¿Nos quedamos en la comodidad del inglés, tal vez? We're slowly incorporating different localizations, so please, feel free to ask for your own language to be included!
-- **Light (and sometimes dark, too. Ehem) & Simple**. The applications is lighter than a feather, I promise. It doesn't have to take much space to keep things fashionable!
+- **Light (and sometimes dark, too. Ehem) & Simple**. The application is lighter than a feather, I promise. It doesn't have to take much space to keep things fashionable!
 
 ## What's Coming Next
 
