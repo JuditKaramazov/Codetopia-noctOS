@@ -7,9 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6773A465922B1710757CB4AF /* libPods-noctOs.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D5BB8A5C80AE125062BA9016 /* libPods-noctOs.a */; };
 		9639FB692350445800D455F6 /* LocalizedUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9639FB682350445800D455F6 /* LocalizedUtils.swift */; };
 		9639FB6D235044A000D455F6 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9639FB6F235044A000D455F6 /* Localizable.strings */; };
-		A22C52A83577FE0A2BC56F20 /* libPods-noctOs.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1B8ED4B9608B4891951D4E2D /* libPods-noctOs.a */; };
 		BD07D667231869BD0087F4D4 /* OpaqueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD07D666231869BD0087F4D4 /* OpaqueView.swift */; };
 		BD111046215CEB240002D537 /* Shell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD111045215CEB240002D537 /* Shell.swift */; };
 		BD1A5590219CA170003C7D98 /* DepedencyContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1A558F219CA170003C7D98 /* DepedencyContainer.swift */; };
@@ -53,9 +53,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		145F48579265DF77B972BF7C /* Pods-noctOs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-noctOs.debug.xcconfig"; path = "Target Support Files/Pods-noctOs/Pods-noctOs.debug.xcconfig"; sourceTree = "<group>"; };
-		1B8ED4B9608B4891951D4E2D /* libPods-noctOs.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-noctOs.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3C77B5C8B42FCD1D7C17DEE0 /* Pods-noctOs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-noctOs.release.xcconfig"; path = "Target Support Files/Pods-noctOs/Pods-noctOs.release.xcconfig"; sourceTree = "<group>"; };
+		32A881F499286CC53BA45908 /* Pods-noctOs.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-noctOs.release.xcconfig"; path = "Target Support Files/Pods-noctOs/Pods-noctOs.release.xcconfig"; sourceTree = "<group>"; };
+		577887C81DBFC186FE430B02 /* Pods-noctOs.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-noctOs.debug.xcconfig"; path = "Target Support Files/Pods-noctOs/Pods-noctOs.debug.xcconfig"; sourceTree = "<group>"; };
 		63AC108C2B06A022006895AE /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/MainMenu.strings; sourceTree = "<group>"; };
 		63AC108D2B06A023006895AE /* ca */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ca; path = ca.lproj/Localizable.strings; sourceTree = "<group>"; };
 		63AC108E2B06A3C2006895AE /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/MainMenu.strings; sourceTree = "<group>"; };
@@ -115,6 +114,7 @@
 		BDE57365221098170065597B /* ViewToolbarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewToolbarItem.swift; sourceTree = "<group>"; };
 		BDE573672210A2CB0065597B /* AppearanceAware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppearanceAware.swift; sourceTree = "<group>"; };
 		BDE5736C2210A9850065597B /* UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaults.swift; sourceTree = "<group>"; };
+		D5BB8A5C80AE125062BA9016 /* libPods-noctOs.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-noctOs.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A22C52A83577FE0A2BC56F20 /* libPods-noctOs.a in Frameworks */,
+				6773A465922B1710757CB4AF /* libPods-noctOs.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -132,18 +132,10 @@
 		2BDBAD01D91A4C1D34A2CF51 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				145F48579265DF77B972BF7C /* Pods-noctOs.debug.xcconfig */,
-				3C77B5C8B42FCD1D7C17DEE0 /* Pods-noctOs.release.xcconfig */,
+				577887C81DBFC186FE430B02 /* Pods-noctOs.debug.xcconfig */,
+				32A881F499286CC53BA45908 /* Pods-noctOs.release.xcconfig */,
 			);
 			path = Pods;
-			sourceTree = "<group>";
-		};
-		5AAE311163BE4F8A0CD13CD8 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				1B8ED4B9608B4891951D4E2D /* libPods-noctOs.a */,
-			);
-			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		9639FB6A2350446600D455F6 /* Localisations */ = {
@@ -262,7 +254,7 @@
 				BD67CE0C215BF15F00216FDB /* Resources */,
 				BD111047215CEB8E0002D537 /* Sources */,
 				BD2349212207442A0047F910 /* Voodoo */,
-				5AAE311163BE4F8A0CD13CD8 /* Frameworks */,
+				FCBE1163B2AAA575336C537B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -378,6 +370,14 @@
 			path = Extensions;
 			sourceTree = "<group>";
 		};
+		FCBE1163B2AAA575336C537B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D5BB8A5C80AE125062BA9016 /* libPods-noctOs.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -385,7 +385,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BD67CE18215BF16100216FDB /* Build configuration list for PBXNativeTarget "noctOs" */;
 			buildPhases = (
-				3C8D826E71098981AD39361D /* [CP] Check Pods Manifest.lock */,
+				E771985D052598EB1275DE00 /* [CP] Check Pods Manifest.lock */,
 				BD234932220744A60047F910 /* Voodoo */,
 				BD67CE06215BF15F00216FDB /* Sources */,
 				BD67CE07215BF15F00216FDB /* Frameworks */,
@@ -468,28 +468,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		3C8D826E71098981AD39361D /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-noctOs-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
 		BD234932220744A60047F910 /* Voodoo */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -524,6 +502,28 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "cp -f -R ${CODESIGNING_FOLDER_PATH} /Applications\n";
+		};
+		E771985D052598EB1275DE00 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-noctOs-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -724,7 +724,7 @@
 		};
 		BD67CE19215BF16100216FDB /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 145F48579265DF77B972BF7C /* Pods-noctOs.debug.xcconfig */;
+			baseConfigurationReference = 577887C81DBFC186FE430B02 /* Pods-noctOs.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
@@ -750,7 +750,7 @@
 		};
 		BD67CE1A215BF16100216FDB /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3C77B5C8B42FCD1D7C17DEE0 /* Pods-noctOs.release.xcconfig */;
+			baseConfigurationReference = 32A881F499286CC53BA45908 /* Pods-noctOs.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
