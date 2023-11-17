@@ -65,8 +65,8 @@ Bear in mind that if you want to test noctOS (and your personal derivations of i
 ## Introduction
 
 <p align="center">
-  <img src="https://github.com/JuditKaramazov/Codetopia-noctOS/blob/cf7d25b6abae724b9e41483053390a40a0f6c95b/Screenshots/Codetopia-noctOS-02.png" alt="noctOS app visual asset." width="480"> 
-  <img src="https://github.com/JuditKaramazov/Codetopia-noctOS/blob/cf7d25b6abae724b9e41483053390a40a0f6c95b/Screenshots/Codetopia-noctOS-03.png" alt="noctOS app visual asset." width="480">
+  <img src="https://github.com/JuditKaramazov/Codetopia-noctOS/blob/cf7d25b6abae724b9e41483053390a40a0f6c95b/Screenshots/Codetopia-noctOS-02.png" alt="noctOS app visual asset." > 
+  <img src="https://github.com/JuditKaramazov/Codetopia-noctOS/blob/cf7d25b6abae724b9e41483053390a40a0f6c95b/Screenshots/Codetopia-noctOS-03.png" alt="noctOS app visual asset." >
 </p>
 
 Do you remember `Grand Theft Auto: San Andreas` and its infamous "here we go again" meme? Well, I must admit it's starting to feel somehow similar to that emblematic moment, but now that I (hopefully) have your attention, and just like it recently happened with my little [ChromatOS](https://github.com/JuditKaramazov/Codetopia-ChromatOS), today we're introducing `noctOS`. As it previously happened with its big brother, today's project works as part of this fall's `Codetopia`, inspired by Africa’s first annual destination Indie Games & Immersive Arts festival and conference [Playtopia](https://playtopiafestival.co.za/about/). "Why so many 'Codetopias', and 'Summer Code Fests', and some other bunch of strange labels, Judit?" First of all, it truly helps me organize my ideas and keep track of my progress; and it's an indirect way of supporting events related to spheres that I truly enjoy, too. Finally, this is nothing more than an excuse to let you know that all these projects prove that I am still learning and practicing the basics I couldn't explore during my formation - as well as getting to know better different technologies, languages, frameworks and tools allowing me to solve my every day's mundanities.
