@@ -31,7 +31,7 @@ class AlertsController: VersionControllerDelegate {
   func versionController(_ controller: VersionController, foundNewVersion version: String) {
     showNewVersionDialog(version: version) { openGitHub in
       if openGitHub {
-        let url = URL(string: "https://github.com/JuditKaramazov/noctOs/releases/tag/\(version)")!
+        let url = URL(string: "https://github.com/JuditKaramazov/Codetopia-noctOs/releases/tag/\(version)")!
         NSWorkspace.shared.open(url)
       }
     }

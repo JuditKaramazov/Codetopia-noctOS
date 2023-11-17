@@ -13,7 +13,7 @@ class VersionController {
   }
 
   func checkForNewVersion(then handler: @escaping (Bool) -> Void) {
-    let url = URL(string: "https://raw.githubusercontent.com/JuditKaramazov/noctOS/master/.current-version")!
+    let url = URL(string: "https://raw.githubusercontent.com/JuditKaramazov/Codetopia-noctOS/master/.current-version")!
     let task = URLSession.shared.dataTask(with: url) {
       [weak self] (data, response, error) in
       guard let strongSelf = self,

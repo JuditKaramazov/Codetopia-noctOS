@@ -103,7 +103,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         let version = strongSelf.versionController.currentVersion()
         strongSelf.alertsController.showNewVersionDialog(version: version) { openGitHub in
           if openGitHub {
-            let url = URL(string: "https://github.com/JuditKaramazov/noctOs/releases/tag/\(version)")!
+            let url = URL(string: "https://github.com/JuditKaramazov/Codetopia-noctOs/releases/tag/\(version)")!
             NSWorkspace.shared.open(url)
           }
         }
