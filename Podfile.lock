@@ -1,0 +1,41 @@
+PODS:
+  - Blueprints (0.13.1)
+  - Differific (0.8.2)
+  - Family (0.22.11)
+  - Sourcery (0.17.0)
+  - UserInterface (0.5.0)
+
+DEPENDENCIES:
+  - Blueprints (from `https://github.com/zenangst/Blueprints.git`, branch `feature/preferred-layout-attributes`)
+  - Differific
+  - Family
+  - Sourcery
+  - UserInterface
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Differific
+    - Family
+    - Sourcery
+    - UserInterface
+
+EXTERNAL SOURCES:
+  Blueprints:
+    :branch: feature/preferred-layout-attributes
+    :git: https://github.com/zenangst/Blueprints.git
+
+CHECKOUT OPTIONS:
+  Blueprints:
+    :commit: 576191d2b834805635824cc5f6db8ff3ea76b7ad
+    :git: https://github.com/zenangst/Blueprints.git
+
+SPEC CHECKSUMS:
+  Blueprints: ddd6ab1e455c98471aaef2fdd0b09b5f9b53af5b
+  Differific: c3840b9e4d1ee2216b2c0054c270e4a616df9327
+  Family: d380fa14141faf72359813338ee64ef93920f326
+  Sourcery: 3ed61be7c8a1218fce349266139379dba477efe0
+  UserInterface: 54e15db9aceaec2b9686d00f471adb15d2598ea3
+
+PODFILE CHECKSUM: 1a24753668ff7d3b08602713b76f4c589abac61f
+
+COCOAPODS: 1.14.2
